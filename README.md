@@ -19,10 +19,10 @@ You can find my LeetCode profile [Shubham Kumar] (https://leetcode.com/shubham_k
 You can find my LeetCode profile [rahul Rai] (https://leetcode.com/rahulrai843/), showcasing solved problems and stats.
 
 ## Progress
-| Day | Problem | Solution |
-| --- | ------- | -------- |
-| 1   | [Problem Name](link_to_problem) | [Solution](link_to_solution) |
-| 2   | [Problem Name](link_to_problem) | [Solution](link_to_solution) |
+| Day | SProblem | S-Solution | RProblem | R-Solution |
+| --- | ------- | -------- |-------- | -------- |
+| 1   | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [Solution](https://leetcode.com/problems/assign-cookies/solutions/4485795/simple-and-easiest-java-solution-beats-100/) | [Problem Name](link_to_problem) | [Solution](link_to_solution) |
+| 2   | [Problem Name](link_to_problem) | [Solution](link_to_solution) | [Problem Name](link_to_problem) | [Solution](link_to_solution) |
 | ... | ...     | ...      |
 
 Feel free to contribute, provide feedback, or join me in this challenge by forking this repository!

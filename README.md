@@ -22,8 +22,7 @@ You can find my LeetCode profile [rahul Rai] (https://leetcode.com/rahulrai843/)
 | Day | SProblem | S-Solution | RProblem | R-Solution |
 | --- | ------- | -------- |-------- | -------- |
 | 1   | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [Solution](https://leetcode.com/problems/assign-cookies/solutions/4485795/simple-and-easiest-java-solution-beats-100/) | [Problem Name](link_to_problem) | [Solution](link_to_solution) |
-| 2   | [Convert an Array Into a 2D Array With Conditions
-](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/) | [Solution](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/solutions/4491829/brute-force-and-optimized-java-solution-beats-100/) | [Problem Name](link_to_problem) | [Solution](link_to_solution) |
+| 2   | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/) | [Solution](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/solutions/4491829/brute-force-and-optimized-java-solution-beats-100/) | [Problem Name](link_to_problem) | [Solution](link_to_solution) |
 | ... | ...     | ...      |
 
 Feel free to contribute, provide feedback, or join me in this challenge by forking this repository!

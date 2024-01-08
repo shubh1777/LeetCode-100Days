@@ -14,9 +14,9 @@ The primary goal of this challenge is to enhance problem-solving skills, improve
 - A brief explanation or approach may be included with the solution code.
 
 ## LeetCode Profile
-You can find my LeetCode profile [Shubham Kumar] (https://leetcode.com/shubham_k1777/), showcasing solved problems and stats.
+You can find my LeetCode profile [Shubham Kumar](https://leetcode.com/shubham_k1777/), showcasing solved problems and stats.
 
-You can find my LeetCode profile [rahul Rai] (https://leetcode.com/rahulrai843/), showcasing solved problems and stats.
+You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/), showcasing solved problems and stats.
 
 ## Progress
 | Day | SProblem | S-Solution | RProblem | R-Solution |

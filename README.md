@@ -29,8 +29,12 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 6   | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | [Solution](https://leetcode.com/problems/maximum-profit-in-job-scheduling/solutions/4517004/simple-approach-using-treemap-in-java/) | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/) | [Solution](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/solutions/4515793/easy-and-simple-beat-100-solution/) |
 | 7   | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) | [Solution](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/solutions/4521301/simple-and-easy-java-solution-beats-100/) | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/description/) | [Solution](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/solutions/4521104/easy-and-simple-solution-to-beat-100/) |
 | 8   | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | [Solution](https://leetcode.com/problems/range-sum-of-bst/solutions/4526531/simple-and-easy-java-approach-beats-100/) | [Candy](https://leetcode.com/problems/candy/) | [Solution](https://leetcode.com/problems/candy/solutions/4526954/easy-and-simple-solution/) |
-| 9   | []() | [Solution]() | []() | [Solution]() |
+| 9   | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution](https://leetcode.com/problems/leaf-similar-trees/solutions/4532510/simple-and-easy-java-solution-beats-100/) | []() | [Solution]() |
 | 10   | []() | [Solution]() | []() | [Solution]() |
+| 11   | []() | [Solution]() | []() | [Solution]() |
+
+| 12   | []() | [Solution]() | []() | [Solution]() |
+
 
 
 

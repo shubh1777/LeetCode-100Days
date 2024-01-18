@@ -38,7 +38,24 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 15   | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/) | [Solution](https://leetcode.com/problems/find-players-with-zero-or-one-losses/solutions/4568861/easy-and-simple-java-solution-beats-100/) | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4569636/easy-and-beat-100-solution/) |
 | 16   | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | [Solution](https://leetcode.com/problems/insert-delete-getrandom-o1/solutions/4576548/simple-and-easy-java-solution-beats-100/) | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Solution](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/solutions/4576546/beat-100-and-easy-solution/) |
 | 17   | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Solution](https://leetcode.com/problems/unique-number-of-occurrences/solutions/4581350/simple-and-easy-java-solution-beats-100/) | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/description/) | [Solution](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/solutions/4581276/easy-and-beat-100/) |
-| 18   | []() | [Solution]() | []() | [Solution]() |
+| 18   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/4585228/simple-and-easy-java-solution-using-dp-beats-100/) | []() | [Solution]() |
+| 19   | []() | [Solution]() | []() | [Solution]() |
+| 20   | []() | [Solution]() | []() | [Solution]() |
+| 21   | []() | [Solution]() | []() | [Solution]() |
+| 22   | []() | [Solution]() | []() | [Solution]() |
+| 23   | []() | [Solution]() | []() | [Solution]() |
+| 24   | []() | [Solution]() | []() | [Solution]() |
+| 25   | []() | [Solution]() | []() | [Solution]() |
+| 26   | []() | [Solution]() | []() | [Solution]() |
+| 27   | []() | [Solution]() | []() | [Solution]() |
+| 28   | []() | [Solution]() | []() | [Solution]() |
+| 29   | []() | [Solution]() | []() | [Solution]() |
+| 30   | []() | [Solution]() | []() | [Solution]() |
+| 31   | []() | [Solution]() | []() | [Solution]() |
+| 32   | []() | [Solution]() | []() | [Solution]() |
+| 33   | []() | [Solution]() | []() | [Solution]() |
+| 34   | []() | [Solution]() | []() | [Solution]() |
+
 
 
 

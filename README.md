@@ -52,9 +52,21 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 29   | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](https://leetcode.com/problems/implement-queue-using-stacks/solutions/3474635/simple-and-easy-java-solution-beats-100/) | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/) | [Solution](https://leetcode.com/problems/minimum-operations-to-make-array-equal/solutions/4643955/one-line-solution/) |
 | 30   | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Solution](https://leetcode.com/problems/evaluate-reverse-polish-notation/solutions/4650418/simple-and-easy-java-solution-beats-100/) | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](https://leetcode.com/problems/two-sum/solutions/4650409/easy-solution-c/) |
 | 31   | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](https://leetcode.com/problems/daily-temperatures/solutions/4655457/simple-and-easy-java-solution-using-stack/) | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | [Solution](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/solutions/4654853/basic-solution/) |
-| 32   | []() | [Solution]() | []() | [Solution]() |
+| 32   | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | [Solution](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/solutions/4659680/simple-and-easy-java-solution/) | []() | [Solution]() |
 | 33   | []() | [Solution]() | []() | [Solution]() |
 | 34   | []() | [Solution]() | []() | [Solution]() |
+| 35   | []() | [Solution]() | []() | [Solution]() |
+| 36   | []() | [Solution]() | []() | [Solution]() |
+| 37   | []() | [Solution]() | []() | [Solution]() |
+| 38   | []() | [Solution]() | []() | [Solution]() |
+| 39   | []() | [Solution]() | []() | [Solution]() |
+| 40   | []() | [Solution]() | []() | [Solution]() |
+| 41   | []() | [Solution]() | []() | [Solution]() |
+| 42   | []() | [Solution]() | []() | [Solution]() |
+| 43   | []() | [Solution]() | []() | [Solution]() |
+| 44   | []() | [Solution]() | []() | [Solution]() |
+| 45   | []() | [Solution]() | []() | [Solution]() |
+
 
 
 

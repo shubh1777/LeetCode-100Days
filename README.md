@@ -65,7 +65,12 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 42   | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Solution](https://leetcode.com/problems/jump-game/solutions/4712202/simple-and-easy-java-solution/) | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/4711192/easy-dp-solution-beat-100/) |
 | 43   | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](https://leetcode.com/problems/majority-element/solutions/4715620/simple-and-easy-java-solution-beats-100/) | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) | [Solution](https://leetcode.com/problems/majority-element/solutions/4715653/easiest-solution/) |
 | 44   | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | [Solution](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/solutions/4718834/simple-and-easy-java-solution-beats-100/) | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=daily-question&envId=2024-02-13) | [Solution](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/solutions/4722134/easy-solution/) |
-| 45   | []() | [Solution]() | []() | [Solution]() |
+| 45   | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [Solution](https://leetcode.com/problems/rearrange-array-elements-by-sign/solutions/4726038/simple-and-easy-java-solution/) | []() | [Solution]() |
+| 46   | []() | [Solution]() | []() | [Solution]() |
+| 47   | []() | [Solution]() | []() | [Solution]() |
+| 48   | []() | [Solution]() | []() | [Solution]() |
+| 49   | []() | [Solution]() | []() | [Solution]() |
+| 50   | []() | [Solution]() | []() | [Solution]() |
 
 
 

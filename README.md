@@ -71,7 +71,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 48   | []() | [Solution]() | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](https://leetcode.com/problems/search-a-2d-matrix-ii/solutions/4704627/simple-and-easy-solution/) |
 | 49   | []() | [Solution]() | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](https://leetcode.com/problems/search-a-2d-matrix/solutions/4746566/easiest-solution-and-beat-100-solution/) |
 | 50   | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Solution](https://leetcode.com/problems/power-of-two/solutions/4752562/simple-and-easy-java-solution-beats-100/) | [Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=daily-question&envId=2024-02-19) | [Solution](https://leetcode.com/problems/power-of-two/solutions/4751883/easy-solution/) |
-| 51   | []() | [Solution]() | []() | [Solution]() |
+| 51   | []() | [Solution]() | [Missing Number](https://leetcode.com/problems/missing-number/description/?envType=daily-question&envId=2024-02-20) | [Solution](https://leetcode.com/problems/missing-number/solutions/4757019/easy-c-solution/) |
 | 52   | []() | [Solution]() | []() | [Solution]() |
 | 53   | []() | [Solution]() | []() | [Solution]() |
 | 54   | []() | [Solution]() | []() | [Solution]() |

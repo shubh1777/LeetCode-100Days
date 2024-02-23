@@ -74,7 +74,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 51   | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](https://leetcode.com/problems/missing-number/solutions/4756814/simple-and-easy-java-solution-beats-100/) | [Missing Number](https://leetcode.com/problems/missing-number/description/?envType=daily-question&envId=2024-02-20) | [Solution](https://leetcode.com/problems/missing-number/solutions/4757019/easy-c-solution/) |
 | 52   | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) | [Solution](https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/4763307/simple-and-easy-java-solution-beats-100/) | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=daily-question&envId=2024-02-21) | [Solution](https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/4762547/one-of-the-easiest-solution/) |
 | 53   | []() | [Solution]() | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22) | [Solution](https://leetcode.com/problems/find-the-town-judge/solutions/4767552/easy-and-beat-100-people/) |
-| 54   | []() | [Solution]() | []() | [Solution]() |
+| 54   | []() | [Solution]() | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/) | [Solution](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/solutions/4772224/one-of-the-easiest-solution/) |
 | 55   | []() | [Solution]() | []() | [Solution]() |
 | 56   | []() | [Solution]() | []() | [Solution]() |
 | 57   | []() | [Solution]() | []() | [Solution]() |

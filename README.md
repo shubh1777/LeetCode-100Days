@@ -77,7 +77,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 54   | []() | [Solution]() | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/) | [Solution](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/solutions/4772224/one-of-the-easiest-solution/) |
 | 55   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](https://leetcode.com/problems/product-of-array-except-self/solutions/4775322/simple-and-easy-java-solution-beats-100/) | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/) | [Solution](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/solutions/4775297/easy-solution-c/) |
 | 56   | []() | [Solution]() | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/) | [Solution](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/solutions/4780528/easy-solution-using-dp/) |
-| 57   | []() | [Solution]() | []() | [Solution]() |
+| 57   | []() | [Solution]() | [Same Tree](https://leetcode.com/problems/same-tree/description) | [Solution](https://leetcode.com/problems/same-tree/solutions/4784914/easy-and-beat-100-users/) |
 | 58   | []() | [Solution]() | []() | [Solution]() |
 | 59   | []() | [Solution]() | []() | [Solution]() |
 | 61   | []() | [Solution]() | []() | [Solution]() |

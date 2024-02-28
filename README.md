@@ -79,7 +79,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 56   | []() | [Solution]() | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/) | [Solution](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/solutions/4780528/easy-solution-using-dp/) |
 | 57   | []() | [Solution]() | [Same Tree](https://leetcode.com/problems/same-tree/description) | [Solution](https://leetcode.com/problems/same-tree/solutions/4784914/easy-and-beat-100-users/) |
 | 58   | []() | [Solution]() | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Solution](https://leetcode.com/problems/minimum-cost-for-tickets/solutions/4790011/easy-and-beat-100/) |
-| 59   | []() | [Solution]() | []() | [Solution]() |
+| 59   | []() | [Solution]() | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28) | [Solution](https://leetcode.com/problems/find-bottom-left-tree-value/solutions/4795233/easy-solution/) |
 | 61   | []() | [Solution]() | []() | [Solution]() |
 | 62   | []() | [Solution]() | []() | [Solution]() |
 | 63   | []() | [Solution]() | []() | [Solution]() |

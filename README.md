@@ -80,7 +80,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 57   | []() | [Solution]() | [Same Tree](https://leetcode.com/problems/same-tree/description) | [Solution](https://leetcode.com/problems/same-tree/solutions/4784914/easy-and-beat-100-users/) |
 | 58   | []() | [Solution]() | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Solution](https://leetcode.com/problems/minimum-cost-for-tickets/solutions/4790011/easy-and-beat-100/) |
 | 59   | []() | [Solution]() | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28) | [Solution](https://leetcode.com/problems/find-bottom-left-tree-value/solutions/4795233/easy-solution/) |
-| 61   | []() | [Solution]() | []() | [Solution]() |
+| 61   | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/) | [Solution](https://leetcode.com/problems/even-odd-tree/solutions/4800221/simple-and-easy-java-solution/) | []() | [Solution]() |
 | 62   | []() | [Solution]() | []() | [Solution]() |
 | 63   | []() | [Solution]() | []() | [Solution]() |
 | 64   | []() | [Solution]() | []() | [Solution]() |

@@ -101,6 +101,28 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 78   | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | [Solution](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/4891487/simple-and-easy-java-solution/) | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=daily-question&envId=2024-03-18) | [Solution](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/4893459/easy-and-simple-solution/) |
 | 79   | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Solution](https://leetcode.com/problems/task-scheduler/solutions/4896972/simple-and-easy-java-solution-beats-99-98/) | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19) | [Solution](https://leetcode.com/problems/task-scheduler/solutions/4897700/easy-and-simple-solution/) |
 | 80   | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/) | [Solution](https://leetcode.com/problems/merge-in-between-linked-lists/solutions/4901929/simple-and-easy-java-solution-beats-100/) | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20) | [Solution](https://leetcode.com/problems/merge-in-between-linked-lists/solutions/4902163/easy-and-simple-solution/) |
+| 81   |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)  | [Solution](https://leetcode.com/problems/reverse-linked-list/solutions/4904951/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
+| 82   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 83   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 84   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 85   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 86   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 87   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 88   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 89   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 90   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 91   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 92   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 93   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 94   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 95   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 96   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 97   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 98   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 99   |  []()  | [Solution]() |  []()  | [Solution]() |
+| 100  |  []()  | [Solution]() |  []()  | [Solution]() |
+
+
 
 
 

@@ -120,7 +120,34 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 97   |  [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)  | [Solution](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/4983333/simple-and-easy-java-solution-beats-100/) |  [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)  | [Solution](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solutions/4980529/easy-stack-solution/) |
 | 98   |  [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)  | [Solution](https://leetcode.com/problems/valid-parenthesis-string/solutions/4986091/simple-and-easy-java-solution-beats-100/) |  [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)  | [Solution](https://leetcode.com/problems/valid-parenthesis-string/solutions/4985365/easy-solution-and-simple/) |
 | 99   |  [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)  | [Solution](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/solutions/4993261/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
-| 100  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 100  |  [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)  | [Solution](https://leetcode.com/problems/time-needed-to-buy-tickets/solutions/4999571/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
+| 101  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 102  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 103  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 104  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 105  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 106  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 107  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 108  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 109  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 110  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 111  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 112  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 113  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 114  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 115  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 116  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 117  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 118  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 119  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 120  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 121  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 122  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 123  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 124  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 125  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 126  |  []()  | [Solution]() |  []()  | [Solution]() |
+
 
 
 

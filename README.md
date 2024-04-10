@@ -121,7 +121,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 98   |  [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)  | [Solution](https://leetcode.com/problems/valid-parenthesis-string/solutions/4986091/simple-and-easy-java-solution-beats-100/) |  [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)  | [Solution](https://leetcode.com/problems/valid-parenthesis-string/solutions/4985365/easy-solution-and-simple/) |
 | 99   |  [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)  | [Solution](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/solutions/4993261/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
 | 100  |  [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)  | [Solution](https://leetcode.com/problems/time-needed-to-buy-tickets/solutions/4999571/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
-| 101  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 101  |  [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)  | [Solution](https://leetcode.com/problems/reveal-cards-in-increasing-order/solutions/5002825/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
 | 102  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 103  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 104  |  []()  | [Solution]() |  []()  | [Solution]() |

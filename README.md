@@ -123,7 +123,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 100  |  [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)  | [Solution](https://leetcode.com/problems/time-needed-to-buy-tickets/solutions/4999571/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
 | 101  |  [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)  | [Solution](https://leetcode.com/problems/reveal-cards-in-increasing-order/solutions/5002825/simple-and-easy-java-solution-beats-100/) |  [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10)  | [Solution](https://leetcode.com/problems/reveal-cards-in-increasing-order/solutions/5003912/easy-solution/)
 | 102  |  [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)  | [Solution](https://leetcode.com/problems/remove-k-digits/solutions/5008366/simple-and-easy-java-solution-using-greedy-method-and-stack/) |  [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)  | [Solution](https://leetcode.com/problems/remove-k-digits/solutions/5006175/easy-stack-solution/) |
-| 103  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 103  |  [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)  | [Solution](https://leetcode.com/problems/trapping-rain-water/solutions/3614845/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
 | 104  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 105  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 106  |  []()  | [Solution]() |  []()  | [Solution]() |

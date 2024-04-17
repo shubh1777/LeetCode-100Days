@@ -14,7 +14,7 @@ The primary goal of this challenge is to enhance problem-solving skills, improve
 - A brief explanation or approach may be included with the solution code.
 
 ## LeetCode Profile
-You can find my LeetCode profile [Shubham Kumar](https://leetcode.com/shubham_k1777/), showcasing solved problems and stats.
+You can find my LeetCode profile [Shubham Kumar](https://leetcode.com/shubm_k1777/), showcasing solved problems and stats.
 
 You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/), showcasing solved problems and stats.
 
@@ -128,7 +128,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 105  |  [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)  | [Solution](https://leetcode.com/problems/sum-of-left-leaves/solutions/5023147/simple-and-easy-java-solution-beats-100/) |  [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)  | [Solution](https://leetcode.com/problems/sum-of-left-leaves/solutions/5019321/easy-and-beat-100/) |
 | 106  |  [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)  | [Solution](https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/5025883/simple-and-easy-java-solution-beats-100/) |  [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=daily-question&envId=2024-04-15)  | [Solution](https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/5026837/easy-and-simple-solution/) |
 | 107  |  [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)  | [Solution](https://leetcode.com/problems/add-one-row-to-tree/solutions/5031496/simple-and-easy-java-solution/) |  [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)  | [Solution](https://leetcode.com/problems/add-one-row-to-tree/solutions/5032824/every-easy-and-simple-soltuion/) |
-| 108  |  []()  | [Solution]() |  [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)  | [Solution](https://leetcode.com/problems/smallest-string-starting-from-leaf/solutions/5035941/easy-dfs-solution/) |
+| 108  |  [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)  | [Solution](https://leetcode.com/problems/smallest-string-starting-from-leaf/solutions/5036028/simple-and-easy-java-solution-beats-99-96/) |  [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)  | [Solution](https://leetcode.com/problems/smallest-string-starting-from-leaf/solutions/5035941/easy-dfs-solution/) |
 | 109  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 110  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 111  |  []()  | [Solution]() |  []()  | [Solution]() |

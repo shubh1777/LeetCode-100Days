@@ -135,7 +135,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 112  |  [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)  | [Solution](https://leetcode.com/problems/find-if-path-exists-in-graph/solutions/5053025/simple-and-easy-java-solution-beats-95/) |  [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)  | [Solution](https://leetcode.com/problems/find-if-path-exists-in-graph/solutions/5052286/easy-dfs-solution/) |
 | 113  |  [Open the Lock](https://leetcode.com/problems/open-the-lock/description/)  | [Solution](https://leetcode.com/problems/open-the-lock/solutions/5059326/simple-and-easy-java-solution/) |  [Open the Lock](https://leetcode.com/problems/open-the-lock/description/)  | [Solution](https://leetcode.com/problems/open-the-lock/solutions/5058052/simple-and-easy-solution/) |
 | 114  |  [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)  | [Solution](https://leetcode.com/problems/minimum-height-trees/solutions/5062454/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
-| 115  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 115  |  [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)  | [Solution](https://leetcode.com/problems/n-th-tribonacci-number/solutions/5065603/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
 | 116  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 117  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 118  |  []()  | [Solution]() |  []()  | [Solution]() |

@@ -139,7 +139,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 116  |  [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/description/)  | [Solution](https://leetcode.com/problems/longest-ideal-subsequence/solutions/5070193/simple-and-easy-java-solution-using-dp/) |  [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/description/)  | [Solution](https://leetcode.com/problems/longest-ideal-subsequence/solutions/5071905/very-easy-solution-beat-94/) |
 | 117  |  [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/)  | [Solution](https://leetcode.com/problems/minimum-falling-path-sum-ii/solutions/5074984/simple-and-easy-java-solution-beats-100/) |  [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/)  | [Solution](https://leetcode.com/problems/minimum-falling-path-sum-ii/solutions/5073691/easy-solution-and-beat-98/) |
 | 118  |  []()  | [Solution]() |  [Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)  | [Solution](https://leetcode.com/problems/freedom-trail/solutions/5077723/easy-memorization-solution/) |
-| 119  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 119  |  []()  | [Solution]() |  [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)  | [Solution](https://leetcode.com/problems/sum-of-distances-in-tree/solutions/5081876/easy-and-simple-solution-95/) |
 | 120  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 121  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 122  |  []()  | [Solution]() |  []()  | [Solution]() |

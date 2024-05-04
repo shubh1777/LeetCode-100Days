@@ -145,7 +145,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 122  |  [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)  | [Solution](https://leetcode.com/problems/reverse-prefix-of-word/solutions/5094225/simple-and-easy-java-solution-using-two-methods/) |  [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=daily-question&envId=2024-05-01)  | [Solution](https://leetcode.com/problems/reverse-prefix-of-word/solutions/5096349/easy-c-solution/) |
 | 123  |  [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)  | [Solution](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/solutions/5100555/simple-and-easy-java-solution/) |  [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)  | [Solution](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/solutions/5100181/easy-and-beat-100/) |
 | 124  |  []()  | [Solution]() |  [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)  | [Solution](https://leetcode.com/problems/compare-version-numbers/solutions/5106862/easy-and-beat-100/) |
-| 125  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 125  |  []()  | [Solution]() |  [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)  | [Solution](https://leetcode.com/problems/boats-to-save-people/solutions/5110328/easy-and-simple-solution/) |
 | 126  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

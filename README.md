@@ -144,10 +144,32 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 121  |  [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/)  | [Solution](https://leetcode.com/problems/number-of-wonderful-substrings/solutions/5092030/simple-and-easy-java-solution-by-3-methods/) |  [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/)  | [Solution](https://leetcode.com/problems/number-of-wonderful-substrings/solutions/5091250/easy-solution-and-beat-95/) |
 | 122  |  [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)  | [Solution](https://leetcode.com/problems/reverse-prefix-of-word/solutions/5094225/simple-and-easy-java-solution-using-two-methods/) |  [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=daily-question&envId=2024-05-01)  | [Solution](https://leetcode.com/problems/reverse-prefix-of-word/solutions/5096349/easy-c-solution/) |
 | 123  |  [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)  | [Solution](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/solutions/5100555/simple-and-easy-java-solution/) |  [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)  | [Solution](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/solutions/5100181/easy-and-beat-100/) |
-| 124  |  []()  | [Solution]() |  [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)  | [Solution](https://leetcode.com/problems/compare-version-numbers/solutions/5106862/easy-and-beat-100/) |
-| 125  |  []()  | [Solution]() |  [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)  | [Solution](https://leetcode.com/problems/boats-to-save-people/solutions/5110328/easy-and-simple-solution/) |
-| 126  |  []()  | [Solution]() |  []()  | [Solution]() |
-
+| 124  |  [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)  | [Solution](https://leetcode.com/problems/compare-version-numbers/solutions/5106510/simple-and-easy-java-solution/) |  [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)  | [Solution](https://leetcode.com/problems/compare-version-numbers/solutions/5106862/easy-and-beat-100/) |
+| 125  |  [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)  | [Solution](https://leetcode.com/problems/boats-to-save-people/solutions/5110398/simple-and-easy-java-solution-beats-97/) |  [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)  | [Solution](https://leetcode.com/problems/boats-to-save-people/solutions/5110328/easy-and-simple-solution/) |
+| 127  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 128  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 129  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 130  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 131  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 132  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 133  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 134  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 135  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 136  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 137  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 138  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 139  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 140  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 141  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 142  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 143  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 144  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 145  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 146  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 147  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 148  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 149  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 150  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 
 

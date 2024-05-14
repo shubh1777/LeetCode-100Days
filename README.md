@@ -155,7 +155,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 132  |  [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)  | [Solution](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/solutions/5141650/simple-and-easy-java-solution/) |  [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)  | [Solution](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/solutions/5144101/easy-and-simple-solution/) |
 | 133  |  [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/)  | [Solution](https://leetcode.com/problems/largest-local-values-in-a-matrix/solutions/5146360/simple-and-easy-java-solution/) |  [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/)  | [Solution](https://leetcode.com/problems/largest-local-values-in-a-matrix/solutions/5146036/easy-solution/) |
 | 134  |  [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/)  | [Solution](https://leetcode.com/problems/score-after-flipping-matrix/solutions/5151591/simple-and-easy-java-solution-beats-100/) |  []()  | [Solution]() |
-| 135  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 135  |  []()  | [Solution]() |  [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/)  | [Solution](https://leetcode.com/problems/path-with-maximum-gold/solutions/5157566/easy-solution/) |
 | 136  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 137  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 138  |  []()  | [Solution]() |  []()  | [Solution]() |

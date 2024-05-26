@@ -167,7 +167,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 144  |  [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)  | [Solution](https://leetcode.com/problems/the-number-of-beautiful-subsets/solutions/5196709/simple-and-easy-java-solution-using-backtracking/) |  [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)  | [Solution](https://leetcode.com/problems/the-number-of-beautiful-subsets/solutions/5197410/easy-backtracking-solution/) |
 | 145  |  []()  | [Solution]() |  [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/)  | [Solution](https://leetcode.com/problems/maximum-score-words-formed-by-letters/solutions/5202420/easy-and-simple-solution/) |
 | 146  |  []()  | [Solution]() |  [Word Break II](https://leetcode.com/problems/word-break-ii/description/)  | [Solution](https://leetcode.com/problems/word-break-ii/solutions/5206426/easy-and-beat-100/) |
-| 147  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 147  |  []()  | [Solution]() |  [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/)  | [Solution](https://leetcode.com/problems/student-attendance-record-ii/solutions/5211948/easy-solution/) |
 | 148  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 149  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 150  |  []()  | [Solution]() |  []()  | [Solution]() |

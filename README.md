@@ -169,7 +169,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 146  |  []()  | [Solution]() |  [Word Break II](https://leetcode.com/problems/word-break-ii/description/)  | [Solution](https://leetcode.com/problems/word-break-ii/solutions/5206426/easy-and-beat-100/) |
 | 147  |  []()  | [Solution]() |  [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/)  | [Solution](https://leetcode.com/problems/student-attendance-record-ii/solutions/5211948/easy-solution/) |
 | 148  |  [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/)  | [Solution](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/solutions/5215911/simple-and-easy-java-solution/) |  [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/)  | [Solution](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/solutions/5215715/simple-and-easy-solution-and-beat-100/) |
-| 149  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 149  |  []()  | [Solution]() |  [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/)  | [Solution](https://leetcode.com/problems/get-equal-substrings-within-budget/solutions/5220614/simple-and-easy-solution/) |
 | 150  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

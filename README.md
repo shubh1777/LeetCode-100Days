@@ -174,7 +174,8 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 151  |  [Count Triplets That Can Form Two Arrays of Equal XOR]()  | [Solution]() |  [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/)  | [Solution](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/solutions/5231597/easy-and-simple-solution/) |
 | 152  |  [Single Number III](https://leetcode.com/problems/single-number-iii/description/)  | [Solution](https://leetcode.com/problems/single-number-iii/solutions/5236947/simple-and-easy-solution-using-xor-in-java-beats-100/) |  [Single Number III](https://leetcode.com/problems/single-number-iii/description/)  | [Solution](https://leetcode.com/problems/single-number-iii/solutions/5236923/easy-and-simple-solution/) |
 | 153  |  [Score of a String]()  | [Solution]() |  [Score of a String](https://leetcode.com/problems/score-of-a-string/description/)  | [Solution](https://leetcode.com/problems/score-of-a-string/solutions/5241020/easy-solution-and-beat-100/) |
-| 154  |  [Reverse String](https://leetcode.com/problems/reverse-string/description/)  | [Solution](https://leetcode.com/problems/reverse-string/solutions/5246233/simple-and-easy-java-solution-using-two-pointers-beats-100/) |  []()  | [Solution]() |
+| 154  |  [Reverse String](https://leetcode.com/problems/reverse-string/description/)  | [Solution](https://leetcode.com/problems/reverse-string/solutions/5246233/simple-and-easy-java-solution-using-two-pointers-beats-100/) |  [Reverse String
+](https://leetcode.com/problems/reverse-string/description/)  | [Solution](https://leetcode.com/problems/reverse-string/solutions/5247588/easy-and-simple-solution/) |
 | 155  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

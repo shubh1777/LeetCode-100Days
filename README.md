@@ -179,7 +179,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 156  |  [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)  | [Solution](https://leetcode.com/problems/longest-palindrome/solutions/5257883/simple-and-easy-java-solution-beats-100/) |  [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)  | [Solution](https://leetcode.com/problems/longest-palindrome/solutions/5257667/easy-and-simple-solution-beat-100/) |
 | 157  |  [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)  | [Solution](https://leetcode.com/problems/find-common-characters/solutions/5263649/simple-and-easy-java-solution-beats-100/) |  [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)  | [Solution](https://leetcode.com/problems/find-common-characters/solutions/5264637/easy-solution/) |
 | 158  |  []()  | [Solution]() |  [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)  | [Solution](https://leetcode.com/problems/hand-of-straights/solutions/5268548/easy-and-simple-solution/) |
-| 159  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 159  |  []()  | [Solution]() |  [Replace Words](https://leetcode.com/problems/replace-words/description/)  | [Solution](https://leetcode.com/problems/replace-words/solutions/5275408/easy-and-simple-solution/) |
 | 160  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

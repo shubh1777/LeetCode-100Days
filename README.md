@@ -180,7 +180,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 157  |  [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)  | [Solution](https://leetcode.com/problems/find-common-characters/solutions/5263649/simple-and-easy-java-solution-beats-100/) |  [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/)  | [Solution](https://leetcode.com/problems/find-common-characters/solutions/5264637/easy-solution/) |
 | 158  |  []()  | [Solution]() |  [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)  | [Solution](https://leetcode.com/problems/hand-of-straights/solutions/5268548/easy-and-simple-solution/) |
 | 159  |  []()  | [Solution]() |  [Replace Words](https://leetcode.com/problems/replace-words/description/)  | [Solution](https://leetcode.com/problems/replace-words/solutions/5275408/easy-and-simple-solution/) |
-| 160  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 160  |  []()  | [Solution]() |  [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)  | [Solution](https://leetcode.com/problems/continuous-subarray-sum/solutions/5279999/easy-and-simple-solution/) |
 | 161  |  []()  | [Solution]() |  [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)  | [Solution](https://leetcode.com/problems/subarray-sums-divisible-by-k/solutions/5285274/easy-solution/) |
 | 162  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 163  |  []()  | [Solution]() |  []()  | [Solution]() |

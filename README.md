@@ -182,7 +182,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 159  |  []()  | [Solution]() |  [Replace Words](https://leetcode.com/problems/replace-words/description/)  | [Solution](https://leetcode.com/problems/replace-words/solutions/5275408/easy-and-simple-solution/) |
 | 160  |  []()  | [Solution]() |  [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)  | [Solution](https://leetcode.com/problems/continuous-subarray-sum/solutions/5279999/easy-and-simple-solution/) |
 | 161  |  []()  | [Solution]() |  [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)  | [Solution](https://leetcode.com/problems/subarray-sums-divisible-by-k/solutions/5285274/easy-solution/) |
-| 162  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 162  |  []()  | [Solution]() |  [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)  | [Solution](https://leetcode.com/problems/relative-sort-array/solutions/5296535/easy-counting-sort-solution/) |
 | 163  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 164  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 165  |  []()  | [Solution]() |  []()  | [Solution]() |

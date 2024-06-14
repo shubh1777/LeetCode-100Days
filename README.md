@@ -185,7 +185,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 162  |  []()  | [Solution]() |  [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)  | [Solution](https://leetcode.com/problems/relative-sort-array/solutions/5296535/easy-counting-sort-solution/) |
 | 163  |  []()  | [Solution]() |  [Sort Colors](https://leetcode.com/problems/sort-colors/description/)  | [Solution](https://leetcode.com/problems/sort-colors/solutions/5300721/easy-and-beat-100-solution/) |
 | 164  |  []()  | [Solution]() |  [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)  | [Solution](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/solutions/5307655/easy-solution/) |
-| 165  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 165  |  []()  | [Solution]() |  [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)  | [Solution](https://leetcode.com/problems/minimum-increment-to-make-array-unique/solutions/5313276/easy-and-simple-solution/) |
 | 166  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 167  |  []()  | [Solution]() |  []()  | [Solution]() |
 

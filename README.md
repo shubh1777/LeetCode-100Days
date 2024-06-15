@@ -186,7 +186,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 163  |  []()  | [Solution]() |  [Sort Colors](https://leetcode.com/problems/sort-colors/description/)  | [Solution](https://leetcode.com/problems/sort-colors/solutions/5300721/easy-and-beat-100-solution/) |
 | 164  |  []()  | [Solution]() |  [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)  | [Solution](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/solutions/5307655/easy-solution/) |
 | 165  |  []()  | [Solution]() |  [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)  | [Solution](https://leetcode.com/problems/minimum-increment-to-make-array-unique/solutions/5313276/easy-and-simple-solution/) |
-| 166  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 166  |  []()  | [Solution]() |  [IPO](https://leetcode.com/problems/ipo/description/)  | [Solution](https://leetcode.com/problems/ipo/solutions/5318232/easy-and-simple-solution/) |
 | 167  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

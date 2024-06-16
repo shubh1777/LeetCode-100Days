@@ -187,7 +187,17 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 164  |  []()  | [Solution]() |  [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)  | [Solution](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/solutions/5307655/easy-solution/) |
 | 165  |  []()  | [Solution]() |  [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)  | [Solution](https://leetcode.com/problems/minimum-increment-to-make-array-unique/solutions/5313276/easy-and-simple-solution/) |
 | 166  |  []()  | [Solution]() |  [IPO](https://leetcode.com/problems/ipo/description/)  | [Solution](https://leetcode.com/problems/ipo/solutions/5318232/easy-and-simple-solution/) |
-| 167  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 167  |  []()  | [Solution]() |  [Patching Array](https://leetcode.com/problems/patching-array/description/)  | [Solution](https://leetcode.com/problems/patching-array/solutions/5322789/easy-and-simple-solution/) |
+| 168  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 169  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 170  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 171  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 172  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 173  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 174  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 175  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 176  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 177  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 
 

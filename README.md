@@ -188,7 +188,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 165  |  []()  | [Solution]() |  [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)  | [Solution](https://leetcode.com/problems/minimum-increment-to-make-array-unique/solutions/5313276/easy-and-simple-solution/) |
 | 166  |  []()  | [Solution]() |  [IPO](https://leetcode.com/problems/ipo/description/)  | [Solution](https://leetcode.com/problems/ipo/solutions/5318232/easy-and-simple-solution/) |
 | 167  |  []()  | [Solution]() |  [Patching Array](https://leetcode.com/problems/patching-array/description/)  | [Solution](https://leetcode.com/problems/patching-array/solutions/5322789/easy-and-simple-solution/) |
-| 168  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 168  |  []()  | [Solution]() |  [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)  | [Solution](https://leetcode.com/problems/sum-of-square-numbers/solutions/5327122/easy-and-simple-solution/) |
 | 169  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 170  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 171  |  []()  | [Solution]() |  []()  | [Solution]() |

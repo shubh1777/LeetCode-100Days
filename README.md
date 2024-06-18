@@ -189,7 +189,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 166  |  []()  | [Solution]() |  [IPO](https://leetcode.com/problems/ipo/description/)  | [Solution](https://leetcode.com/problems/ipo/solutions/5318232/easy-and-simple-solution/) |
 | 167  |  []()  | [Solution]() |  [Patching Array](https://leetcode.com/problems/patching-array/description/)  | [Solution](https://leetcode.com/problems/patching-array/solutions/5322789/easy-and-simple-solution/) |
 | 168  |  []()  | [Solution]() |  [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)  | [Solution](https://leetcode.com/problems/sum-of-square-numbers/solutions/5327122/easy-and-simple-solution/) |
-| 169  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 169  |  []()  | [Solution]() |  [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/)  | [Solution](https://leetcode.com/problems/most-profit-assigning-work/solutions/5332410/easy-solution/) |
 | 170  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 171  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 172  |  []()  | [Solution]() |  []()  | [Solution]() |

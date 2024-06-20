@@ -191,7 +191,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 168  |  []()  | [Solution]() |  [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)  | [Solution](https://leetcode.com/problems/sum-of-square-numbers/solutions/5327122/easy-and-simple-solution/) |
 | 169  |  []()  | [Solution]() |  [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/)  | [Solution](https://leetcode.com/problems/most-profit-assigning-work/solutions/5332410/easy-solution/) |
 | 170  |  []()  | [Solution]() |  [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)  | [Solution](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/solutions/5337644/easy-solution/) |
-| 171  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 171  |  []()  | [Solution]() |  [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/description/)  | [Solution](https://leetcode.com/problems/magnetic-force-between-two-balls/solutions/5342104/easy-and-simple/) |
 | 172  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 173  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 174  |  []()  | [Solution]() |  []()  | [Solution]() |

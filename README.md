@@ -194,7 +194,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 171  |  []()  | [Solution]() |  [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/description/)  | [Solution](https://leetcode.com/problems/magnetic-force-between-two-balls/solutions/5342104/easy-and-simple/) |
 | 172  |  []()  | [Solution]() |  [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/)  | [Solution](https://leetcode.com/problems/grumpy-bookstore-owner/solutions/5344661/easy-and-simple-solution/) |
 | 173  |  []()  | [Solution]() |  [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)  | [Solution](https://leetcode.com/problems/count-number-of-nice-subarrays/solutions/5351185/easy-and-simple-solution/) |
-| 174  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 174  |  []()  | [Solution]() |  [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)  | [Solution](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/solutions/5356473/easyyyyyy/) |
 | 175  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 176  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 177  |  []()  | [Solution]() |  []()  | [Solution]() |

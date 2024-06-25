@@ -196,7 +196,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 173  |  []()  | [Solution]() |  [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)  | [Solution](https://leetcode.com/problems/count-number-of-nice-subarrays/solutions/5351185/easy-and-simple-solution/) |
 | 174  |  []()  | [Solution]() |  [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)  | [Solution](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/solutions/5356473/easyyyyyy/) |
 | 175  |  []()  | [Solution]() |  [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/)  | [Solution](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/solutions/5362799/easy-and-simple/) |
-| 176  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 176  |  []()  | [Solution]() |  [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)  | [Solution](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/solutions/5365697/easy-and-simple/) |
 | 177  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

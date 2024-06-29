@@ -200,7 +200,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 177  |  []()  | [Solution]() |  [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)  | [Solution](https://leetcode.com/problems/balance-a-binary-search-tree/solutions/5371355/easy-and-simple/) |
 | 178  |  []()  | [Solution]() |  [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)  | [Solution](https://leetcode.com/problems/find-center-of-star-graph/solutions/5375453/easy-and-simple/) |
 | 179  |  []()  | [Solution]() |  [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/)  | [Solution](https://leetcode.com/problems/maximum-total-importance-of-roads/solutions/5380790/easy-and-simple/) |
-| 180  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 180  |  []()  | [Solution]() |  [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)  | [Solution](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/solutions/5385671/easy-and-simple/) |
 | 181  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 182  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 183  |  []()  | [Solution]() |  []()  | [Solution]() |

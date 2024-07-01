@@ -202,7 +202,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 179  |  []()  | [Solution]() |  [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/)  | [Solution](https://leetcode.com/problems/maximum-total-importance-of-roads/solutions/5380790/easy-and-simple/) |
 | 180  |  []()  | [Solution]() |  [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)  | [Solution](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/solutions/5385671/easy-and-simple/) |
 | 181  |  []()  | [Solution]() |  [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)  | [Solution](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/solutions/5390604/easy-and-simple/) |
-| 182  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 182  |  []()  | [Solution]() |  [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)  | [Solution](https://leetcode.com/problems/three-consecutive-odds/) |
 | 183  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 184  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 185  |  []()  | [Solution]() |  []()  | [Solution]() |

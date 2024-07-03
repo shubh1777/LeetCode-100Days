@@ -204,7 +204,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 181  |  []()  | [Solution]() |  [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)  | [Solution](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/solutions/5390604/easy-and-simple/) |
 | 182  |  []()  | [Solution]() |  [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)  | [Solution](https://leetcode.com/problems/three-consecutive-odds/) |
 | 183  |  []()  | [Solution]() |  [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)  | [Solution](https://leetcode.com/problems/intersection-of-two-arrays-ii/solutions/5402379/easy-and-simple-solution/) |
-| 184  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 184  |  []()  | [Solution]() |  [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/)  | [Solution](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/solutions/5408493/easy-and-simple/) |
 | 185  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 186  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 187  |  []()  | [Solution]() |  []()  | [Solution]() |

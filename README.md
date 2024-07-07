@@ -208,7 +208,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 185  |  []()  | [Solution]() |  [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)  | [Solution](https://leetcode.com/problems/merge-nodes-in-between-zeros/solutions/5415225/easy-and-simple-solution/) |
 | 186  |  []()  | [Solution]() |  [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)  | [Solution](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solutions/5420107/easy-and-simple/) |
 | 187  |  []()  | [Solution]() |  [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)  | [Solution](https://leetcode.com/problems/pass-the-pillow/solutions/5427142/easy-and-simple/) |
-| 188  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 188  |  []()  | [Solution]() |  [Water Bottles](https://leetcode.com/problems/water-bottles/description/)  | [Solution](https://leetcode.com/problems/water-bottles/solutions/5432593/easy-and-beat-100/) |
 | 189  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 190  |  []()  | [Solution]() |  []()  | [Solution]() |
 

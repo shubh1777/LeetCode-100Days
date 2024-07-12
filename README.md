@@ -211,6 +211,31 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 188  |  []()  | [Solution]() |  [Water Bottles](https://leetcode.com/problems/water-bottles/description/)  | [Solution](https://leetcode.com/problems/water-bottles/solutions/5432593/easy-and-beat-100/) |
 | 189  |  []()  | [Solution]() |  [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)  | [Solution](https://leetcode.com/problems/find-the-winner-of-the-circular-game/solutions/5438312/easy-and-simple/) |
 | 190  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 191  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 192  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 193  |  []()  | [Solution]() |  [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description)  | [Solution](https://leetcode.com/problems/maximum-score-from-removing-substrings/solutions/5464967/easy-and-simple/) |
+| 194  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 195  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 196  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 197  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 198  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 199  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 200  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 201  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 202  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 203  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 204  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 205  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 206  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 207  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 208  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 209  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 210  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 211  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 212  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 213  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 214  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 215  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 
 

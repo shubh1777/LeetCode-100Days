@@ -214,7 +214,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 191  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 192  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 193  |  []()  | [Solution]() |  [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description)  | [Solution](https://leetcode.com/problems/maximum-score-from-removing-substrings/solutions/5464967/easy-and-simple/) |
-| 194  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 194  |  []()  | [Solution]() |  [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)  | [Solution](https://leetcode.com/problems/robot-collisions/solutions/5470348/easy-and-simple/) |
 | 195  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 196  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 197  |  []()  | [Solution]() |  []()  | [Solution]() |

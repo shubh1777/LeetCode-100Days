@@ -216,7 +216,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 193  |  []()  | [Solution]() |  [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description)  | [Solution](https://leetcode.com/problems/maximum-score-from-removing-substrings/solutions/5464967/easy-and-simple/) |
 | 194  |  []()  | [Solution]() |  [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)  | [Solution](https://leetcode.com/problems/robot-collisions/solutions/5470348/easy-and-simple/) |
 | 195  |  []()  | [Solution]() |  [Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)  | [Solution](https://leetcode.com/problems/number-of-atoms/solutions/5474496/easy-and-simple/) |
-| 196  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 196  |  []()  | [Solution]() |  [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/)  | [Solution](https://leetcode.com/problems/create-binary-tree-from-descriptions/solutions/5481429/easy/) |
 | 197  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 198  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 199  |  []()  | [Solution]() |  []()  | [Solution]() |

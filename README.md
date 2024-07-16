@@ -217,7 +217,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 194  |  []()  | [Solution]() |  [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)  | [Solution](https://leetcode.com/problems/robot-collisions/solutions/5470348/easy-and-simple/) |
 | 195  |  []()  | [Solution]() |  [Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)  | [Solution](https://leetcode.com/problems/number-of-atoms/solutions/5474496/easy-and-simple/) |
 | 196  |  []()  | [Solution]() |  [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/)  | [Solution](https://leetcode.com/problems/create-binary-tree-from-descriptions/solutions/5481429/easy/) |
-| 197  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 197  |  []()  | [Solution]() |  [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)  | [Solution](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/solutions/5485706/easy-and-simple/) |
 | 198  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 199  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 200  |  []()  | [Solution]() |  []()  | [Solution]() |

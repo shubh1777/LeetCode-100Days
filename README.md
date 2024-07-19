@@ -220,7 +220,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 197  |  []()  | [Solution]() |  [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)  | [Solution](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/solutions/5485706/easy-and-simple/) |
 | 198  |  []()  | [Solution]() |  [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/)  | [Solution](https://leetcode.com/problems/delete-nodes-and-return-forest/solutions/5491358/easy-and-simple/) |
 | 199  |  []()  | [Solution]() |  [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/)  | [Solution](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/solutions/5496357/easy-and-simple/) |
-| 200  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 200  |  []()  | [Solution]() |  [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/)  | [Solution](https://leetcode.com/problems/lucky-numbers-in-a-matrix/solutions/5501200/easy-and-simple/) |
 | 201  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 202  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 203  |  []()  | [Solution]() |  []()  | [Solution]() |

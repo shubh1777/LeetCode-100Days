@@ -221,7 +221,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 198  |  []()  | [Solution]() |  [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/)  | [Solution](https://leetcode.com/problems/delete-nodes-and-return-forest/solutions/5491358/easy-and-simple/) |
 | 199  |  []()  | [Solution]() |  [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/)  | [Solution](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/solutions/5496357/easy-and-simple/) |
 | 200  |  []()  | [Solution]() |  [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/)  | [Solution](https://leetcode.com/problems/lucky-numbers-in-a-matrix/solutions/5501200/easy-and-simple/) |
-| 201  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 201  |  []()  | [Solution]() |  [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/)  | [Solution](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/solutions/5505671/easy-and-simple/) |
 | 202  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 203  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 204  |  []()  | [Solution]() |  []()  | [Solution]() |

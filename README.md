@@ -223,7 +223,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 200  |  []()  | [Solution]() |  [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/)  | [Solution](https://leetcode.com/problems/lucky-numbers-in-a-matrix/solutions/5501200/easy-and-simple/) |
 | 201  |  []()  | [Solution]() |  [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/)  | [Solution](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/solutions/5505671/easy-and-simple/) |
 | 202  |  []()  | [Solution]() |  [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/)  | [Solution](https://leetcode.com/problems/build-a-matrix-with-conditions/solutions/5510933/easy-and-simple/) |
-| 203  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 203  |  []()  | [Solution]() |  [Sort the People](https://leetcode.com/problems/sort-the-people/description/)  | [Solution](https://leetcode.com/problems/sort-the-people/solutions/5517017/easy-and-simple/) |
 | 204  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 205  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 206  |  []()  | [Solution]() |  []()  | [Solution]() |

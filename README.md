@@ -226,7 +226,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 203  |  []()  | [Solution]() |  [Sort the People](https://leetcode.com/problems/sort-the-people/description/)  | [Solution](https://leetcode.com/problems/sort-the-people/solutions/5517017/easy-and-simple/) |
 | 204  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 205  |  []()  | [Solution]() |  [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/)  | [Solution](https://leetcode.com/problems/sort-the-jumbled-numbers/solutions/5528027/easy-solution/) |
-| 206  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 206  |  []()  | [Solution]() |  [Sort an Array](https://leetcode.com/problems/sort-an-array/description/)  | [Solution](https://leetcode.com/problems/sort-an-array/solutions/5532956/easy-and-simple/) |
 | 207  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 208  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 209  |  []()  | [Solution]() |  []()  | [Solution]() |

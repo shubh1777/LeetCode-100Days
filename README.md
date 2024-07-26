@@ -227,7 +227,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 204  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 205  |  []()  | [Solution]() |  [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/)  | [Solution](https://leetcode.com/problems/sort-the-jumbled-numbers/solutions/5528027/easy-solution/) |
 | 206  |  []()  | [Solution]() |  [Sort an Array](https://leetcode.com/problems/sort-an-array/description/)  | [Solution](https://leetcode.com/problems/sort-an-array/solutions/5532956/easy-and-simple/) |
-| 207  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 207  |  []()  | [Solution]() |  [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)  | [Solution](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/solutions/5539402/easy-floyd-warshell-solution/) |
 | 208  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 209  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 210  |  []()  | [Solution]() |  []()  | [Solution]() |

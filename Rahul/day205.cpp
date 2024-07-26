@@ -19,7 +19,7 @@ public:
            int nb = stoi(mn);
            a.push_back({nb,i});
          }
-         sort(begin(a),end(a));
+         sort(begin(a),end(a));git
          vector<int> result;
          for(auto &p : a){
             int i = p.second;

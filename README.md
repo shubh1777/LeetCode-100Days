@@ -231,7 +231,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 208  |  []()  | [Solution]() |  [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/)  | [Solution](https://leetcode.com/problems/minimum-cost-to-convert-string-i/solutions/5543777/easy-and-simple/) |
 | 209  |  []()  | [Solution]() |  [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)  | [Solution](https://leetcode.com/problems/second-minimum-time-to-reach-destination/solutions/5548486/easy-and-simple/) |
 | 210  |  []()  | [Solution]() |  [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/)  | [Solution](https://leetcode.com/problems/count-number-of-teams/solutions/5553919/easy-solution/) |
-| 211  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 211  |  []()  | [Solution]() |  [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)  | [Solution](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/solutions/5558956/easy-and-simple/) |
 | 212  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 213  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 214  |  []()  | [Solution]() |  []()  | [Solution]() |

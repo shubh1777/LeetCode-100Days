@@ -234,7 +234,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 211  |  []()  | [Solution]() |  [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)  | [Solution](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/solutions/5558956/easy-and-simple/) |
 | 212  |  []()  | [Solution]() |  [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/)  | [Solution](https://leetcode.com/problems/filling-bookcase-shelves/solutions/5562852/solution/) |
 | 213  |  []()  | [Solution]() |  [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)  | [Solution](https://leetcode.com/problems/number-of-senior-citizens/solutions/5569223/easy-solution/) |
-| 214  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 214  |  []()  | [Solution]() |  [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)  | [Solution](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/solutions/5574742/easy/) |
 | 215  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

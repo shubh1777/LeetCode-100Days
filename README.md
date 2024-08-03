@@ -235,7 +235,33 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 212  |  []()  | [Solution]() |  [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/)  | [Solution](https://leetcode.com/problems/filling-bookcase-shelves/solutions/5562852/solution/) |
 | 213  |  []()  | [Solution]() |  [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)  | [Solution](https://leetcode.com/problems/number-of-senior-citizens/solutions/5569223/easy-solution/) |
 | 214  |  []()  | [Solution]() |  [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)  | [Solution](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/solutions/5574742/easy/) |
-| 215  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 215  |  []()  | [Solution]() |  [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/)  | [Solution](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/solutions/5579380/easy-sorting-solution/) |
+| 216  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 217  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 218  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 219  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 220  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 221  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 222  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 223  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 224  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 225  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 226  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 227  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 228  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 229  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 230  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 231  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 232  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 233  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 234  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 235  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 236  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 237  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 238  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 239  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 240  |  []()  | [Solution]() |  []()  | [Solution]() |
+
 
 
 

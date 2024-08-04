@@ -236,7 +236,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 213  |  []()  | [Solution]() |  [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)  | [Solution](https://leetcode.com/problems/number-of-senior-citizens/solutions/5569223/easy-solution/) |
 | 214  |  []()  | [Solution]() |  [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)  | [Solution](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/solutions/5574742/easy/) |
 | 215  |  []()  | [Solution]() |  [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/)  | [Solution](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/solutions/5579380/easy-sorting-solution/) |
-| 216  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 216  |  []()  | [Solution]() |  [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/)  | [Solution](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/solutions/5586095/easy-and-simple-solution/) |
 | 217  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 218  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 219  |  []()  | [Solution]() |  []()  | [Solution]() |

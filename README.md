@@ -238,7 +238,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 215  |  []()  | [Solution]() |  [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/)  | [Solution](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/solutions/5579380/easy-sorting-solution/) |
 | 216  |  []()  | [Solution]() |  [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/)  | [Solution](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/solutions/5586095/easy-and-simple-solution/) |
 | 217  |  []()  | [Solution]() |  [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)  | [Solution](https://leetcode.com/problems/kth-distinct-string-in-an-array/solutions/5591901/easy-solution-and-simple/) |
-| 218  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 218  |  []()  | [Solution]() |  [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/)  | [Solution](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/solutions/5597314/easy-and-simple/) |
 | 219  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 220  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 221  |  []()  | [Solution]() |  []()  | [Solution]() |

@@ -241,7 +241,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 218  |  []()  | [Solution]() |  [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/)  | [Solution](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/solutions/5597314/easy-and-simple/) |
 | 219  |  []()  | [Solution]() |  [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)  | [Solution](https://leetcode.com/problems/integer-to-english-words/solutions/5601300/easy-and-beat-100/) |
 | 220  |  []()  | [Solution]() |  [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)  | [Solution](https://leetcode.com/problems/spiral-matrix-iii/solutions/5606108/easy-and-simple/) |
-| 221  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 221  |  []()  | [Solution]() |  [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)  | [Solution](https://leetcode.com/problems/magic-squares-in-grid/solutions/5613140/easy/) |
 | 222  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 223  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 224  |  []()  | [Solution]() |  []()  | [Solution]() |

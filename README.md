@@ -243,7 +243,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 220  |  []()  | [Solution]() |  [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)  | [Solution](https://leetcode.com/problems/spiral-matrix-iii/solutions/5606108/easy-and-simple/) |
 | 221  |  []()  | [Solution]() |  [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)  | [Solution](https://leetcode.com/problems/magic-squares-in-grid/solutions/5613140/easy/) |
 | 222  |  []()  | [Solution]() |  []()  | [Solution]() |
-| 223  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 223  |  []()  | [Solution]() |  [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)  | [Solution](https://leetcode.com/problems/kth-largest-element-in-a-stream/solutions/5625926/easy-solution/) |
 | 224  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 225  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 226  |  []()  | [Solution]() |  []()  | [Solution]() |

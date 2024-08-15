@@ -246,7 +246,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 223  |  []()  | [Solution]() |  [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)  | [Solution](https://leetcode.com/problems/kth-largest-element-in-a-stream/solutions/5625926/easy-solution/) |
 | 224  |  []()  | [Solution]() |  [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)  | [Solution](https://leetcode.com/problems/combination-sum-ii/solutions/5631094/easy-solution/) |
 | 225  |  []()  | [Solution]() |  []()  | [Solution]() |
-| 226  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 226  |  []()  | [Solution]() |  [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)  | [Solution](https://leetcode.com/problems/lemonade-change/solutions/5639862/easy-solution/) |
 | 227  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 228  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 229  |  []()  | [Solution]() |  []()  | [Solution]() |

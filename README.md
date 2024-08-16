@@ -247,7 +247,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 224  |  []()  | [Solution]() |  [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)  | [Solution](https://leetcode.com/problems/combination-sum-ii/solutions/5631094/easy-solution/) |
 | 225  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 226  |  []()  | [Solution]() |  [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)  | [Solution](https://leetcode.com/problems/lemonade-change/solutions/5639862/easy-solution/) |
-| 227  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 227  |  []()  | [Solution]() |  [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/)  | [Solution](https://leetcode.com/problems/maximum-distance-in-arrays/solutions/5644505/easy-solution/) |
 | 228  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 229  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 230  |  []()  | [Solution]() |  []()  | [Solution]() |

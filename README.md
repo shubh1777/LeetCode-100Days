@@ -249,7 +249,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 226  |  []()  | [Solution]() |  [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)  | [Solution](https://leetcode.com/problems/lemonade-change/solutions/5639862/easy-solution/) |
 | 227  |  []()  | [Solution]() |  [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/)  | [Solution](https://leetcode.com/problems/maximum-distance-in-arrays/solutions/5644505/easy-solution/) |
 | 228  |  []()  | [Solution]() |  [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)  | [Solution](https://leetcode.com/problems/maximum-number-of-points-with-cost/solutions/5649758/easy/) |
-| 229  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 229  |  []()  | [Solution]() |  [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)  | [Solution](https://leetcode.com/problems/ugly-number-ii/solutions/5655754/easy/) |
 | 230  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 231  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 232  |  []()  | [Solution]() |  []()  | [Solution]() |

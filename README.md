@@ -251,7 +251,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 228  |  []()  | [Solution]() |  [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)  | [Solution](https://leetcode.com/problems/maximum-number-of-points-with-cost/solutions/5649758/easy/) |
 | 229  |  []()  | [Solution]() |  [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)  | [Solution](https://leetcode.com/problems/ugly-number-ii/solutions/5655754/easy/) |
 | 230  |  []()  | [Solution]() |  [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)  | [Solution](https://leetcode.com/problems/2-keys-keyboard/solutions/5660342/easy-solution/) |
-| 231  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 231  |  []()  | [Solution]() |  [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)  | [Solution](https://leetcode.com/problems/stone-game-ii/solutions/5663968/easy-solution/) |
 | 232  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 233  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 234  |  []()  | [Solution]() |  []()  | [Solution]() |

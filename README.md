@@ -255,7 +255,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 232  |  []()  | [Solution]() |  [Strange Printer](https://leetcode.com/problems/strange-printer/description/)  | [Solution](https://leetcode.com/problems/strange-printer/solutions/5669475/easy-and-simple/) |
 | 233  |  []()  | [Solution]() |  [Number Complement](https://leetcode.com/problems/number-complement/description/)  | [Solution](https://leetcode.com/problems/number-complement/solutions/5675086/easy-solution/) |
 | 234  |  []()  | [Solution]() |  [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)  | [Solution](https://leetcode.com/problems/fraction-addition-and-subtraction/solutions/5679882/easy-solution/) |
-| 235  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 235  |  []()  | [Solution]() |  [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/?)  | [Solution](https://leetcode.com/problems/find-the-closest-palindrome/solutions/5683341/easy-solution/) |
 | 236  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 237  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 238  |  []()  | [Solution]() |  []()  | [Solution]() |

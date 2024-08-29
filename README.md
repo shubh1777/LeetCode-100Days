@@ -260,7 +260,16 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 237  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 238  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 239  |  []()  | [Solution]() |  [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)  | [Solution](https://leetcode.com/problems/count-sub-islands/solutions/5703489/easy-solution/) |
-| 240  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 240  |  []()  | [Solution]() |  [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/)  | [Solution](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/solutions/5707931/easy-and-simple/) |
+| 241  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 242  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 243  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 244  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 245  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 246  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 247  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 248  |  []()  | [Solution]() |  []()  | [Solution]() |
+
 
 
 

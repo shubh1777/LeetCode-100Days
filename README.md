@@ -263,7 +263,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 240  |  []()  | [Solution]() |  [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/)  | [Solution](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/solutions/5707931/easy-and-simple/) |
 | 241  |  []()  | [Solution]() |  [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/)  | [Solution](https://leetcode.com/problems/modify-graph-edge-weights/solutions/5711431/paani-paani-solution/) |
 | 242  |  []()  | [Solution]() |  [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)  | [Solution](https://leetcode.com/problems/path-with-maximum-probability/solutions/5715763/easy-solution/) |
-| 243  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 243  |  []()  | [Solution]() |  [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/)  | [Solution](https://leetcode.com/problems/convert-1d-array-into-2d-array/solutions/5718295/easy-solution/) |
 | 244  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 245  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 246  |  []()  | [Solution]() |  []()  | [Solution]() |

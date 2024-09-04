@@ -266,7 +266,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 243  |  []()  | [Solution]() |  [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/)  | [Solution](https://leetcode.com/problems/convert-1d-array-into-2d-array/solutions/5718295/easy-solution/) |
 | 244  |  []()  | [Solution]() |  [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/)  | [Solution](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/solutions/5726151/easy-solution/) |
 | 245  |  []()  | [Solution]() |  [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)  | [Solution](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/solutions/5731658/easy-solution/) |
-| 246  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 246  |  []()  | [Solution]() |  [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)  | [Solution](https://leetcode.com/problems/walking-robot-simulation/solutions/5734735/easy-solution/) |
 | 247  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 248  |  []()  | [Solution]() |  []()  | [Solution]() |
 

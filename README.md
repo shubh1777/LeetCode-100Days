@@ -267,7 +267,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 244  |  []()  | [Solution]() |  [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/)  | [Solution](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/solutions/5726151/easy-solution/) |
 | 245  |  []()  | [Solution]() |  [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)  | [Solution](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/solutions/5731658/easy-solution/) |
 | 246  |  []()  | [Solution]() |  [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)  | [Solution](https://leetcode.com/problems/walking-robot-simulation/solutions/5734735/easy-solution/) |
-| 247  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 247  |  []()  | [Solution]() |  [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)  | [Solution](https://leetcode.com/problems/find-missing-observations/solutions/5741774/easy-solution/) |
 | 248  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

@@ -268,7 +268,16 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 245  |  []()  | [Solution]() |  [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)  | [Solution](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/solutions/5731658/easy-solution/) |
 | 246  |  []()  | [Solution]() |  [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)  | [Solution](https://leetcode.com/problems/walking-robot-simulation/solutions/5734735/easy-solution/) |
 | 247  |  []()  | [Solution]() |  [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)  | [Solution](https://leetcode.com/problems/find-missing-observations/solutions/5741774/easy-solution/) |
-| 248  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 249  |  []()  | [Solution]() |  [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/)  | [Solution](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/solutions/5746944/easy-solution/) |
+| 250  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 251  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 252  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 253  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 254  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 255  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 256  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 257  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 258  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 
 

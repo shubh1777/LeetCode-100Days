@@ -269,7 +269,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 246  |  []()  | [Solution]() |  [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)  | [Solution](https://leetcode.com/problems/walking-robot-simulation/solutions/5734735/easy-solution/) |
 | 247  |  []()  | [Solution]() |  [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)  | [Solution](https://leetcode.com/problems/find-missing-observations/solutions/5741774/easy-solution/) |
 | 249  |  []()  | [Solution]() |  [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/)  | [Solution](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/solutions/5746944/easy-solution/) |
-| 250  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 250  |  []()  | [Solution]() |  [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)  | [Solution](https://leetcode.com/problems/linked-list-in-binary-tree/solutions/5749068/easy-solution/) |
 | 251  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 252  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 253  |  []()  | [Solution]() |  []()  | [Solution]() |

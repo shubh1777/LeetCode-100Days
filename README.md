@@ -271,7 +271,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 249  |  []()  | [Solution]() |  [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/)  | [Solution](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/solutions/5746944/easy-solution/) |
 | 250  |  []()  | [Solution]() |  [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/)  | [Solution](https://leetcode.com/problems/linked-list-in-binary-tree/solutions/5749068/easy-solution/) |
 | 251  |  []()  | [Solution]() |  [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)  | [Solution](https://leetcode.com/problems/split-linked-list-in-parts/solutions/5756068/easy-solution/) |
-| 252  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 252  |  []()  | [Solution]() |  [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/)  | [Solution](https://leetcode.com/problems/spiral-matrix-iv/solutions/5760722/easy-solution/) |
 | 253  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 254  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 255  |  []()  | [Solution]() |  []()  | [Solution]() |

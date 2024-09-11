@@ -273,7 +273,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 251  |  []()  | [Solution]() |  [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)  | [Solution](https://leetcode.com/problems/split-linked-list-in-parts/solutions/5756068/easy-solution/) |
 | 252  |  []()  | [Solution]() |  [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/)  | [Solution](https://leetcode.com/problems/spiral-matrix-iv/solutions/5760722/easy-solution/) |
 | 253  |  []()  | [Solution]() |  [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)  | [Solution](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/solutions/5766696/easy-solution/) |
-| 254  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 254  |  []()  | [Solution]() |  [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)  | [Solution](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/solutions/5770227/easy-solution/) |
 | 255  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 256  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 257  |  []()  | [Solution]() |  []()  | [Solution]() |

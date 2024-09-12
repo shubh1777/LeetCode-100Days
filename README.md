@@ -274,7 +274,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 252  |  []()  | [Solution]() |  [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/)  | [Solution](https://leetcode.com/problems/spiral-matrix-iv/solutions/5760722/easy-solution/) |
 | 253  |  []()  | [Solution]() |  [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)  | [Solution](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/solutions/5766696/easy-solution/) |
 | 254  |  []()  | [Solution]() |  [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)  | [Solution](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/solutions/5770227/easy-solution/) |
-| 255  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 255  |  []()  | [Solution]() |  [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)  | [Solution](https://leetcode.com/problems/count-the-number-of-consistent-strings/solutions/5776348/easy-solution/) |
 | 256  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 257  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 258  |  []()  | [Solution]() |  []()  | [Solution]() |

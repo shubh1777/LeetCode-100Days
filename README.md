@@ -276,7 +276,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 254  |  []()  | [Solution]() |  [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)  | [Solution](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/solutions/5770227/easy-solution/) |
 | 255  |  []()  | [Solution]() |  [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)  | [Solution](https://leetcode.com/problems/count-the-number-of-consistent-strings/solutions/5776348/easy-solution/) |
 | 256  |  []()  | [Solution]() |  [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)  | [Solution](https://leetcode.com/problems/xor-queries-of-a-subarray/solutions/5780974/easy-solution/) |
-| 257  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 257  |  []()  | [Solution]() |  [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)  | [Solution](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/solutions/5786617/easy-solution/) |
 | 258  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 

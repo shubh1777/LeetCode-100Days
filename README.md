@@ -277,7 +277,21 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 255  |  []()  | [Solution]() |  [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)  | [Solution](https://leetcode.com/problems/count-the-number-of-consistent-strings/solutions/5776348/easy-solution/) |
 | 256  |  []()  | [Solution]() |  [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)  | [Solution](https://leetcode.com/problems/xor-queries-of-a-subarray/solutions/5780974/easy-solution/) |
 | 257  |  []()  | [Solution]() |  [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)  | [Solution](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/solutions/5786617/easy-solution/) |
-| 258  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 258  |  []()  | [Solution]() |  [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/)  | [Solution](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/solutions/5790278/easy-solution/) |
+| 259  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 260  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 261  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 262  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 263  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 264  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 265  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 266  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 267  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 268  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 269  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 270  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 271  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 272  |  []()  | [Solution]() |  []()  | [Solution]() |
 
 
 

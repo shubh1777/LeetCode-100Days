@@ -278,7 +278,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 256  |  []()  | [Solution]() |  [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)  | [Solution](https://leetcode.com/problems/xor-queries-of-a-subarray/solutions/5780974/easy-solution/) |
 | 257  |  []()  | [Solution]() |  [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/)  | [Solution](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/solutions/5786617/easy-solution/) |
 | 258  |  []()  | [Solution]() |  [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/)  | [Solution](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/solutions/5790278/easy-solution/) |
-| 259  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 259  |  []()  | [Solution]() |  [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)  | [Solution](https://leetcode.com/problems/minimum-time-difference/solutions/5795426/easy-solution/) |
 | 260  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 261  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 262  |  []()  | [Solution]() |  []()  | [Solution]() |

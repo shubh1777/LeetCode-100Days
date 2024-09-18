@@ -280,7 +280,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 258  |  []()  | [Solution]() |  [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/)  | [Solution](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/solutions/5790278/easy-solution/) |
 | 259  |  []()  | [Solution]() |  [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)  | [Solution](https://leetcode.com/problems/minimum-time-difference/solutions/5795426/easy-solution/) |
 | 260  |  []()  | [Solution]() |  [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)  | [Solution](https://leetcode.com/problems/uncommon-words-from-two-sentences/solutions/5800003/beat-100/) |
-| 261  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 261  |  []()  | [Solution]() |  [Largest Number](https://leetcode.com/problems/largest-number/description/)  | [Solution](https://leetcode.com/problems/largest-number/solutions/5804568/easy-solution/) |
 | 262  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 263  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 264  |  []()  | [Solution]() |  []()  | [Solution]() |

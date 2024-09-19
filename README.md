@@ -281,7 +281,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 259  |  []()  | [Solution]() |  [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/)  | [Solution](https://leetcode.com/problems/minimum-time-difference/solutions/5795426/easy-solution/) |
 | 260  |  []()  | [Solution]() |  [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)  | [Solution](https://leetcode.com/problems/uncommon-words-from-two-sentences/solutions/5800003/beat-100/) |
 | 261  |  []()  | [Solution]() |  [Largest Number](https://leetcode.com/problems/largest-number/description/)  | [Solution](https://leetcode.com/problems/largest-number/solutions/5804568/easy-solution/) |
-| 262  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 262  |  []()  | [Solution]() |  [Different Ways to Add Parentheses]()  | [Solution](https://leetcode.com/problems/different-ways-to-add-parentheses/solutions/5809117/easy/) |
 | 263  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 264  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 265  |  []()  | [Solution]() |  []()  | [Solution]() |

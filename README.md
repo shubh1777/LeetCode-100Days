@@ -282,7 +282,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 260  |  []()  | [Solution]() |  [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)  | [Solution](https://leetcode.com/problems/uncommon-words-from-two-sentences/solutions/5800003/beat-100/) |
 | 261  |  []()  | [Solution]() |  [Largest Number](https://leetcode.com/problems/largest-number/description/)  | [Solution](https://leetcode.com/problems/largest-number/solutions/5804568/easy-solution/) |
 | 262  |  []()  | [Solution]() |  [Different Ways to Add Parentheses]()  | [Solution](https://leetcode.com/problems/different-ways-to-add-parentheses/solutions/5809117/easy/) |
-| 263  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 263  |  []()  | [Solution]() |  [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)  | [Solution](https://leetcode.com/problems/lexicographical-numbers/solutions/5816796/easy-solution/) |
 | 264  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 265  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 266  |  []()  | [Solution]() |  []()  | [Solution]() |

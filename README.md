@@ -284,7 +284,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 262  |  []()  | [Solution]() |  [Different Ways to Add Parentheses]()  | [Solution](https://leetcode.com/problems/different-ways-to-add-parentheses/solutions/5809117/easy/) |
 | 263  |  []()  | [Solution]() |  [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)  | [Solution](https://leetcode.com/problems/lexicographical-numbers/solutions/5816796/easy-solution/) |
 | 264  |  []()  | [Solution]() |  [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)  | [Solution](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/solutions/5820622/easy-solution/) |
-| 265  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 265  |  []()  | [Solution]() |  [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)  | [Solution](https://leetcode.com/problems/extra-characters-in-a-string/solutions/5824117/easy-dp-solution/) |
 | 266  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 267  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 268  |  []()  | [Solution]() |  []()  | [Solution]() |

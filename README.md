@@ -285,7 +285,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 263  |  []()  | [Solution]() |  [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)  | [Solution](https://leetcode.com/problems/lexicographical-numbers/solutions/5816796/easy-solution/) |
 | 264  |  []()  | [Solution]() |  [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)  | [Solution](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/solutions/5820622/easy-solution/) |
 | 265  |  []()  | [Solution]() |  [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)  | [Solution](https://leetcode.com/problems/extra-characters-in-a-string/solutions/5824117/easy-dp-solution/) |
-| 266  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 266  |  []()  | [Solution]() |  [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)  | [Solution](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/solutions/5828597/easy-solution/) |
 | 267  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 268  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 269  |  []()  | [Solution]() |  []()  | [Solution]() |

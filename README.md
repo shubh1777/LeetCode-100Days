@@ -286,7 +286,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 264  |  []()  | [Solution]() |  [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)  | [Solution](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/solutions/5820622/easy-solution/) |
 | 265  |  []()  | [Solution]() |  [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)  | [Solution](https://leetcode.com/problems/extra-characters-in-a-string/solutions/5824117/easy-dp-solution/) |
 | 266  |  []()  | [Solution]() |  [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)  | [Solution](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/solutions/5828597/easy-solution/) |
-| 267  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 267  |  []()  | [Solution]() |  [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/)  | [Solution](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/solutions/5832765/solution/) |
 | 268  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 269  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 270  |  []()  | [Solution]() |  []()  | [Solution]() |

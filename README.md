@@ -287,7 +287,7 @@ You can find my LeetCode profile [Rahul Rai](https://leetcode.com/rahulrai843/),
 | 265  |  []()  | [Solution]() |  [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/description/)  | [Solution](https://leetcode.com/problems/extra-characters-in-a-string/solutions/5824117/easy-dp-solution/) |
 | 266  |  []()  | [Solution]() |  [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)  | [Solution](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/solutions/5828597/easy-solution/) |
 | 267  |  []()  | [Solution]() |  [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/)  | [Solution](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/solutions/5832765/solution/) |
-| 268  |  []()  | [Solution]() |  []()  | [Solution]() |
+| 268  |  []()  | [Solution]() |  [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/)  | [Solution](https://leetcode.com/problems/my-calendar-i/solutions/5836534/easy-solution/) |
 | 269  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 270  |  []()  | [Solution]() |  []()  | [Solution]() |
 | 271  |  []()  | [Solution]() |  []()  | [Solution]() |
